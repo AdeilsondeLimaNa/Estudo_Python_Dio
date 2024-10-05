@@ -1,1 +1,1 @@
-Bem vindos ao meus programas Python. Aqui se inicia um estudo
+Sejam Bem Vindos! Aqui se inicia um estudo Python, obrigado pela visita!
